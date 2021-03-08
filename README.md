@@ -3,7 +3,9 @@ Nagaraju Dantham
 
 -------------------     ----------------------------
 -Email id                        nagarajdantham@gmail.com
+
 -Mobile no                      6300422272
+
 -Country                          India
 -------------------     ----------------------------
 
@@ -40,8 +42,11 @@ Skills
 Personal Info
 ----------------------------------------
 -Father Name : Jagannadham
+
 -DOB         : 19-05-1999
+
 -Gender      : Male
+
 -Address     : Guntur
 
 
